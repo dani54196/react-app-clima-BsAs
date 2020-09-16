@@ -19,7 +19,7 @@ export default class Weather extends Component {
   async getWeather() {
     let cityName = "Buenos Aires";
     const keyApi = "85f6220ea720a16166e4927b3a2f31ad";
-    const API_URL = `http://api.openweathermap.org/data/2.5/weather?q=
+    const API_URL = `https://api.openweathermap.org/data/2.5/weather?q=
     ${cityName},ar&appid=${keyApi}&units=metric`;
     const response = await fetch(API_URL);
     const data = await response.json();
