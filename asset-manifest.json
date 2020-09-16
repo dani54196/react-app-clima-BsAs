@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app-clima-BsAs/static/css/main.d2b879cb.chunk.css",
+    "main.js": "/react-app-clima-BsAs/static/js/main.2d457598.chunk.js",
+    "main.js.map": "/react-app-clima-BsAs/static/js/main.2d457598.chunk.js.map",
+    "runtime-main.js": "/react-app-clima-BsAs/static/js/runtime-main.53b4e624.js",
+    "runtime-main.js.map": "/react-app-clima-BsAs/static/js/runtime-main.53b4e624.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/react-app-clima-BsAs/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.32725310.chunk.js": "/react-app-clima-BsAs/static/js/2.32725310.chunk.js",
+    "static/js/2.32725310.chunk.js.map": "/react-app-clima-BsAs/static/js/2.32725310.chunk.js.map",
+    "index.html": "/react-app-clima-BsAs/index.html",
+    "precache-manifest.b8e8bfa94a031645fbc0f231227410f6.js": "/react-app-clima-BsAs/precache-manifest.b8e8bfa94a031645fbc0f231227410f6.js",
+    "service-worker.js": "/react-app-clima-BsAs/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/react-app-clima-BsAs/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.d2b879cb.chunk.css.map": "/react-app-clima-BsAs/static/css/main.d2b879cb.chunk.css.map",
+    "static/js/2.32725310.chunk.js.LICENSE.txt": "/react-app-clima-BsAs/static/js/2.32725310.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b4e624.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.32725310.chunk.js",
+    "static/css/main.d2b879cb.chunk.css",
+    "static/js/main.2d457598.chunk.js"
+  ]
+}
